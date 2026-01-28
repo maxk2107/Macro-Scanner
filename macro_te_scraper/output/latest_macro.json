@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-01-27T20:54:27Z",
+  "source": "scrape",
+  "data": [
+    {
+      "Indicator": "Unemployment",
+      "Current": null,
+      "Previous": null,
+      "Difference": null,
+      "Expected Future": null
+    },
+    {
+      "Indicator": "Inflation MoM",
+      "Current": null,
+      "Previous": null,
+      "Difference": null,
+      "Expected Future": null
+    },
+    {
+      "Indicator": "Interest Rate",
+      "Current": null,
+      "Previous": null,
+      "Difference": null,
+      "Expected Future": null
+    },
+    {
+      "Indicator": "Retail Sales MoM",
+      "Current": null,
+      "Previous": null,
+      "Difference": null,
+      "Expected Future": null
+    },
+    {
+      "Indicator": "Services PMI",
+      "Current": null,
+      "Previous": null,
+      "Difference": null,
+      "Expected Future": null
+    },
+    {
+      "Indicator": "Manufacturing PMI",
+      "Current": null,
+      "Previous": null,
+      "Difference": null,
+      "Expected Future": null
+    },
+    {
+      "Indicator": "PPI",
+      "Current": null,
+      "Previous": null,
+      "Difference": null,
+      "Expected Future": null
+    },
+    {
+      "Indicator": "GDP Growth QoQ",
+      "Current": null,
+      "Previous": null,
+      "Difference": null,
+      "Expected Future": null
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "unemployment": {
+    "data": {
+      "current": null,
+      "previous": null,
+      "expected": null
+    },
+    "timestamp": "2026-01-27T20:54:27.943265"
+  },
+  "inflation_mom": {
+    "data": {
+      "current": null,
+      "previous": null,
+      "expected": null
+    },
+    "timestamp": "2026-01-27T20:54:27.943399"
+  },
+  "interest_rate": {
+    "data": {
+      "current": null,
+      "previous": null,
+      "expected": null
+    },
+    "timestamp": "2026-01-27T20:54:27.943782"
+  },
+  "retail_sales_mom": {
+    "data": {
+      "current": null,
+      "previous": null,
+      "expected": null
+    },
+    "timestamp": "2026-01-27T20:54:27.944129"
+  },
+  "services_pmi": {
+    "data": {
+      "current": null,
+      "previous": null,
+      "expected": null
+    },
+    "timestamp": "2026-01-27T20:54:27.944434"
+  },
+  "manufacturing_pmi": {
+    "data": {
+      "current": null,
+      "previous": null,
+      "expected": null
+    },
+    "timestamp": "2026-01-27T20:54:27.944730"
+  },
+  "ppi": {
+    "data": {
+      "current": null,
+      "previous": null,
+      "expected": null
+    },
+    "timestamp": "2026-01-27T20:54:27.944976"
+  },
+  "gdp_growth_qoq": {
+    "data": {
+      "current": null,
+      "previous": null,
+      "expected": null
+    },
+    "timestamp": "2026-01-27T20:54:27.945209"
+  }
+}

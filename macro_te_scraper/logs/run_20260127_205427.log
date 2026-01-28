@@ -1,0 +1,3 @@
+2026-01-27 20:54:27 [DEBUG] macro_scraper: Logger initialised. Log file: /home/oai/share/macro_te_scraper/logs/run_20260127_205427.log
+2026-01-27 20:54:27 [ERROR] macro_scraper: HTTP 403 for https://tradingeconomics.com/united-states/indicators
+2026-01-27 20:54:27 [DEBUG] macro_scraper: Saved debug HTML to /home/oai/share/macro_te_scraper/debug/indicators_page_20260127_205427.html

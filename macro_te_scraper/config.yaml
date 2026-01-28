@@ -1,0 +1,25 @@
+countries:
+  - united-states
+  - euro-area
+  - united-kingdom
+  - japan
+  - australia
+  - canada
+  - new-zealand
+  - switzerland
+
+indicators:
+  - unemployment
+  - inflation_mom
+  - interest_rate
+  - retail_sales_mom
+  - services_pmi
+  - manufacturing_pmi
+  - ppi
+  - gdp_growth_qoq
+source: "scrape"
+api_key: ""
+timeout_seconds: 30
+rate_limit_seconds: 2
+headless: true
+cache_ttl_minutes: 60

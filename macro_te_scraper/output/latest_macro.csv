@@ -1,0 +1,9 @@
+Indicator,Current,Previous,Difference,Expected Future,TimestampUTC,Source
+Unemployment,,,,,2026-01-27T20:54:27Z,scrape
+Inflation MoM,,,,,2026-01-27T20:54:27Z,scrape
+Interest Rate,,,,,2026-01-27T20:54:27Z,scrape
+Retail Sales MoM,,,,,2026-01-27T20:54:27Z,scrape
+Services PMI,,,,,2026-01-27T20:54:27Z,scrape
+Manufacturing PMI,,,,,2026-01-27T20:54:27Z,scrape
+PPI,,,,,2026-01-27T20:54:27Z,scrape
+GDP Growth QoQ,,,,,2026-01-27T20:54:27Z,scrape
